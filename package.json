@@ -1,6 +1,7 @@
 {
   "name": "html5",
   "version": "1.0.0",
+  "main": "index.js",
   "description": "A Vue.js project",
   "author": "zhujiawei <492997027@qq.com>",
   "private": true,
